@@ -1,7 +1,74 @@
 # Complete React Native resourses
-Collection of some awesome resources for react-native :sparkles:
+Full collection of React Native resources :sparkles:
 
-# Experiences/Case studies
+A free collaborative list of awesome React Native resources. This list is a an attempt to create a comprehensive list of tutorials, blogs, videos and articels that cover as many topics as possible for React Native. I will update this list as I discover new posts and as new posts are suggested.
+
+<div>
+<p align="center">
+<img src= "https://raw.githubusercontent.com/alxwndr/react-native-resources/master/assets/img/react_native.png">
+</p>
+</div>
+
+# Resources
+
+### Official Documentation
+| Title | Description |
+| :------------ |:---------------|
+| [React Native Website](http://facebook.github.io/react-native/docs/getting-started.html) | The official React Native Docs and reference aka the good shit. Your primary reference for everything |
+| [React](https://facebook.github.io/react/docs/hello-world.html)| The official React Docs. Use to learn React |
+| [Redux](http://redux.js.org/)| Read this to learn Redux |
+
+### Community 
+| Title | Description |
+| :------------ |:---------------|
+| [React Native AMA](https://www.reddit.com/r/IAmA/comments/3wyb3m/we_are_the_team_working_on_react_native_ask_us/) | React Native team takes questions about React Native|
+| [React Native Roadmap](https://github.com/facebook/react-native/wiki/Roadmap) | |
+| [React Native Product Pains](https://productpains.com/product/react-native) | If you have a problem with React Native, post it here. Good way to check out the biggest sentiments currently on React Native |
+| [Reddit](https://www.reddit.com/r/reactnative/)  |
+| [React Native in the Community](https://github.com/ericvicenti/react-native-community) | A list of community-built React Native contributions. |
+| [React Native Newsletter](http://reactnative.cc/) | |
+| [Online meetups](https://github.com/knowbody/react-native-online-meetups)  | |
+| [StackOverflow](http://stackoverflow.com/questions/tagged/react-native)| |
+| [Discord](https://discordapp.com/invite/0ZcbPKXt5bZjGY5n)| |
+| [React Native Wiki](https://github.com/facebook/react-native/wiki/Roadmap)  | Has a roadmap section to show the future of react native development |
+| [Use React Native Website](http://www.reactnative.com/)  | Website works similarly to this project |
+| [Reactiflux](https://www.reactiflux.com/) | |
+| [React Native Gallery](https://reactnative.gallery/) |
+
+### Cheat Sheets
+| Title | Description |
+| :------------ |:---------------|
+| [Reach Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) | Cheatsheet for styling react antive components |
+| [React Native Cheatsheet](https://github.com/refinery29/react-native-cheat-sheet) | React Native TidBits |
+| [Learning Path for React Native](https://medium.com/entria/learning-path-react-native-5a97e9ce8c52#.i5ootmhn8) | |
+
+
+### Docs 
+
+- [Deco React Native Docs](https://www.decosoftware.com/docs/react-native/getting-started.html#content) 
+- [Stack Overflow Docs](http://stackoverflow.com/documentation/react-native/topics) 
+
+
+### Project Setup 
+
+- [Renaming a React Native Project](http://blog.tylerbuchea.com/renaming-a-react-native-project/) 
+- [Rename react-native app with just one command](https://github.com/JuneDomingo/react-native-rename) 
+- [React Native Deployment to iPhone](https://medium.com/@kswanie21/react-native-deployment-to-iphone-76d8254f1505#.rhyo45u7i) 
+
+
+### Great Sites
+| Title | Description |
+| :------------ | :-----|
+| [awesomereact.com](https://www.awesomereact.com/) | Bunch of really good videos to get you going with React |
+| [Awesome React Native](https://github.com/jondot/awesome-react-native) | the original Awesome React Native List |
+| [React Native Express](http://www.reactnativeexpress.com/)  | Walkthrough tutorial for beginners |
+| [React Native Playground](https://rnplay.org/apps/picks) | React Native project site. Sometimes doesn't function properly |
+| [React Native Coach](https://js.coach/react-native?sort=popular)  | List of Useful React Native Components to get you started |
+
+
+# Other resourses
+
+## Experiences/Case studies
 
 * React-Native case studies:
 https://belitsoft.com/react-native-development/migrating-react-native-top-20-case-studies-well-known-companies 
@@ -17,7 +84,7 @@ https://belitsoft.com/react-native-development/migrating-react-native-top-20-cas
 * Series on building with React-Native:
 https://medium.com/building-with-react-native
 
-# React-Native architecture
+## React-Native architecture
 * How react-native works:
 http://www.discoversdk.com/blog/how-react-native-works
 
@@ -39,7 +106,7 @@ https://www.youtube.com/watch?v=Ah2qNbI40vE
 * Under the hood of react-native:
 https://www.youtube.com/watch?v=8N4f4h6SThc
 
-# Layout / UI
+## Layout / UI
 * Shapes in React-Native: https://codedaily.io/tutorials/22/The-Shapes-of-React-Native
 
 * Flexbox basics: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
@@ -55,7 +122,7 @@ https://medium.com/building-with-react-native/how-to-develop-responsive-uis-with
 
 * Custom fonts in React-Native: https://medium.com/@ben.clayton/react-native-cross-platform-custom-fonts-3122cd4b75bd
 
-# Images
+## Images
 * Pixel pefect cloud images in react-native: https://blog.uncommon.is/pixel-perfect-cloud-images-in-react-native-55acbc377a72
 
 * Image layout: https://medium.com/the-react-native-log/tips-for-react-native-images-or-saying-goodbye-to-trial-and-error-b2baaf0a1a4d
@@ -73,7 +140,7 @@ https://medium.com/@wcandillon/smart-images-in-react-native-db0ef047dd8c
 
 * React-Native image performance: https://medium.com/@adamjacobb/react-native-performance-images-adf5843e120
 
-# Animations
+## Animations
 * Exploring animated API: https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae
 
 * PanResponder + Animated API basics: 
@@ -130,7 +197,18 @@ https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-
 * How to achieve great animation performance in React-Native: 
 https://medium.com/building-with-react-native/animations-in-react-native-how-to-achieve-great-performance-and-tips-1x04-44fd43996428
 
-# Navigation
+
+## Navigation and Routing Overview
+
+- [Navigation in React Native: Examining and Understanding the Options](http://slides.com/dabit3/comprehensive-navigation-in-react-native-10#/) 
+- [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/) 
+-  [Exploring Navigators in React Native](https://medium.com/@spencer_carli/exploring-navigators-in-react-native-869b6ab47e0f#.qhchjsgco) 
+- [React Native — Which Navigator should I use?](https://medium.com/@dabit3/react-native-what-navigator-should-i-use-2ff59ec2b2d#.szcpi1gry) 
+- [React Native Navigator — Navigating Like A Pro in React Native](https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.8e4ouui5y) 
+- [Eric Vicenti - Native Navigation for Every Platform at ReactEurope 2016](https://www.youtube.com/watch?v=dOSwHABLvdM) Navigation in the Facebook apps. Also talks about the future of NavigationExperimental 
+- [Build your own javascript navigator for react native](https://www.fullstackreact.com/articles/build-your-own-javascript-navigator-for-react-native/)
+
+### Navigation
 
 * React-Navigation integration with Redux with authentication flow:
 https://hackernoon.com/a-comprehensive-guide-for-integrating-react-navigation-with-redux-including-authentication-flow-cb7b90611adf
@@ -150,26 +228,50 @@ https://medium.com/async-la/custom-transitions-in-react-navigation-2f759408a053
 * 5 part series on React-Navigation:
 https://medium.com/async-la/a-stately-guide-to-react-navigation-with-redux-1f90c872f96e
 
-# Push Notifications
 
-* https://apiko.com/blog/react-native-push-notifications/?utm_source=sharing-sources-f&utm_medium=react-native-push-notifications&utm_content=sharing-sources-f&utm_campaign=blog
+### React Native Router Flux
 
-# Geolocation/Maps
+- [React Native Basics: Using react-native-router-flux](https://medium.com/differential/react-native-basics-using-react-native-router-flux-f11e5128aff9#.7fw7f05yl)  Blog + Youtube series
+- [Tackling React Native navigation with React Native Router Flux and Redux](https://medium.com/@bosung90/tackling-react-native-navigation-with-react-native-router-flux-and-redux-27fcd86fb2b7#.uq6ev98q9)
+- [Using React-Native-Router-Flux with Redux](https://medium.com/@ian.mundy/using-react-native-router-flux-with-redux-9b10be35cd37#.gditrhb8m) 
+
+### Other Navigation Options
+
+- [Introducting React Router Native](https://commitocracy.com/introducing-react-router-native-b02e76b8ca5d#.xoxdv0ys1) 
+- [Wix React Native Navigation](http://oramind.com/react-native-navigation/#comment-3019731732) 
+- [react-native-animated-modal](https://github.com/mmazzarolo/react-native-animated-modal) 
+- [Swipeable cards navigation](https://medium.com/technoetics/creating-swipable-content-cards-in-reactnative-768254057c9e#.sjf2y9dd9) 
+- [Ex-navigation Explainer](https://gist.github.com/knowbody/ce483742a1761658b767428a0ed35147) 
+- [Using Ex-Navigation in React Native](https://blog.binoy.io/ex-navigation-in-react-native-2f30d21d62d9#.23orid4u5)
+- [lottie-react-native](https://github.com/airbnb/lottie-react-native) 
+- [react-native-facebook-keyframes](https://github.com/underscopeio/react-native-facebook-keyframes) 
+- [App Animations with Lottie by Airbnb](https://blog.prototypr.io/app-animations-with-lottie-by-airbnb-8101277c95c7#.izvh5sn5g) 
+
+
+
+## Push Notifications
+- [How to Setup Push Notifications in React Native (iOS & Android)](https://medium.com/differential/how-to-setup-push-notifications-in-react-native-ios-android-30ea0131355e#.nqef8ufjg) 
+- [Triggering iOS 10 actionable push notifications via React Native](https://medium.com/@martco/triggering-ios-actionable-push-notifications-via-react-native-7990a6a3c3f4#.qc38i1u1z)
+- [How to Setup Push Notifications with React Native](https://www.youtube.com/watch?v=TQmudJLhPx8) 
+- [React Native Library for OneSignal Push Notifications Service](https://github.com/geektimecoil/react-native-onesignal) 
+
+
+## Geolocation/Maps
 * Geolocation with react-native-maps (2 parts): https://www.asher-scott.com/blog/post/2
 
 * Geolocation basics in react-native: https://hackernoon.com/react-native-basics-geolocation-adf3c0d10112
 
-# AR/VR
+## AR/VR
 * Building AR app with React-Native and Viro AR: https://blog.viromedia.com/how-to-build-an-interactive-ar-app-in-5-mins-w-react-native-viro-ar-e420147e1612
 
 * Building AR portals with React-Native and Viro AR: https://blog.viromedia.com/how-to-build-ar-portals-in-5-mins-w-react-native-viro-ar-b939850def94
 
 * Adding Snapchat like AR lenses in React-Native: https://blog.viromedia.com/add-snapchat-ar-lenses-to-any-app-w-react-native-viro-ar-9d4053769782
 
-# Storage
+## Storage
 * https://medium.com/@bosung90/tackling-react-native-storage-part-1-d27b2bfa480f
 
-# Performance
+## Performance
 * React-Native performance profiling: https://medium.com/@adamjacobb/react-native-performance-profiling-32dd00b93351
 
 * An article on react-native performance: https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440
@@ -182,7 +284,7 @@ https://medium.com/async-la/a-stately-guide-to-react-navigation-with-redux-1f90c
 
 * Debugging react-native performance: https://medium.com/@jondot/debugging-react-native-performance-snoopy-and-the-messagequeue-fe014cd047ac
 
-# Debugging
+## Debugging
 * https://medium.com/research-engineering-at-simply-technologies/react-native-debugging-like-a-god-9610ac2ffd12
 
 * Awesome techniques to debug react-native app: https://medium.com/reactnativeacademy/debugging-react-native-applications-6bff3f28c375
@@ -199,20 +301,41 @@ https://blog.reactnativecoach.com/debugging-react-native-and-redux-with-react-na
 * Debugging the bridge:
 https://blog.callstack.io/reactnative-how-to-check-what-passes-through-your-bridge-e435571ffd85
 
-# Testing
-* Gray box end to end testing using detox: https://hackernoon.com/detox-gray-box-end-to-end-testing-framework-for-mobile-apps-196ccd9564ce
 
-* e2e tests in Reaact-Native: https://blog.callstack.io/time-to-detox-e8ba22f2c048
+## Testing
 
-* Jest for testing react-native (4 parts): https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-1-f782c4e30101
+- [Using Enzyme to Test Components in React Native](https://github.com/airbnb/enzyme/blob/master/docs/guides/react-native.md) 
+- [Testing React Native with Mocha and Enzyme](https://blog.addjam.com/testing-react-native-with-mocha-and-enzyme-6b77cd9e52a1#.s39leomg6) 
+- [Unit Testing React Native With Mocha And Enzyme](https://formidable.com/blog/2016/02/08/unit-testing-react-native-with-mocha-and-enzyme/) 
+- [Testing React Native](https://www.youtube.com/watch?v=6aVDe2Y-co4)
+- [React Native on Simulator and on Device](https://gist.github.com/almost/898a829d5197c69d29b0)
+- [Testing the Bejeezus out of React Native Apps with AVA](https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3#.7urkxe5xa)
+- [Test driving React Native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/) 
+- [Automated UI Testing with React Native on iOS](http://blog.xebia.com/automated-ui-testing-with-react-native-on-ios/) 
+- [React Native Mock](https://github.com/RealOrangeOne/react-native-mock) | Github | | A fully mocked and test-friendly version of react native 
+- [Testing React Native and Redux](https://blog.hellojs.org/testing-react-native-and-redux-e5a71b99e178#.oy2vojoid) 
+- [carte-blanche](https://github.com/carteb/carte-blanche) | Github | | An isolated development space with integrated fuzz testing for your components. See them individually, explore them in different states and quickly and confidently develop them. [youtube video](https://www.youtube.com/watch?v=6g3-TQ6aaw8) 
+- [A fully mocked and test-friendly version of React Native](https://github.com/RealOrangeOne/react-native-mock) 
+- [React Native Functional Testing using Appium](http://moduscreate.com/react-native-functional-testing-using-appium/) 
+- [Graybox E2E tests and automation library for mobile](https://github.com/wix/detox) 
+### Testing with Jest
 
-* Graybox E2E Tests using Detox: https://www.youtube.com/watch?v=GgFFeI70PWw
+- [Learning to test React Native with Jest — part 1](https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-1-f782c4e30101)
+- [Learning to test React Native with Jest — part 2](https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-2-825057dd549d) 
+- [Learning to test React Native with Jest — part 3](https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-3-c4161a813af6) 
+- [Unit testing React Native with the *new* Jest (I) — Snapshots come into play!](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-i-snapshots-come-into-play-68ba19b1b9fe#.f8xoocdjy) [code](https://github.com/ferrannp/react-native-testing-example) 
+- [Unit testing React Native with the *new* Jest (II) — Redux: Snapshots for your actions and reducers](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-ii-redux-snapshots-for-your-actions-and-reducers-8559f6f8050b#.ka8zkm3wy) 
+- [Using Jest Everywhere](https://jest-everywhere.now.sh/#/0?_k=k0sl57) 
+- [Using Jest with React Native and MobX](https://wietse.loves.engineering/using-jest-with-react-native-and-mobx-34949ea7d2cf#.rw9v63sgx)
+- [How to use Jest with React Native](http://stackoverflow.com/questions/29730415/how-to-use-jest-with-react-native?rq=1) 
+- [Jest Docs React Native](https://facebook.github.io/jest/docs/tutorial-react-native.html#content) 
+- [Testing React Native Componenets with Jest](http://www.schibsted.pl/blog/testing-react-native-components-with-jest/)  
+- [Unit Testing React Native Components: A Firsthand Guide](https://medium.com/@jcfrancisco/unit-testing-react-native-components-a-firsthand-guide-cea561df242b#.64258uj88) 
+- [React Testing Practices](https://medium.com/in-the-hudl/hot-react-testing-practices-1eb10bd61135#.r4jj2rrpy) 
+- [Testng React Applications with Jest](https://auth0.com/blog/testing-react-applications-with-jest) 
 
-* e2e testing in React-Native: https://blog.home.ht/how-to-do-end-to-end-testing-on-react-native-with-detox-2b7f404e7713
 
-* Testing in React-Native (Part-1): https://medium.com/localz-engineering/react-native-testing-part-1-eea89402a588
-
-# Tooling/Analytics
+## Tooling/Analytics
 * VSCode setup for React-Native: https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce
 
 * Visual Studio Mobile center + React-Native: https://medium.com/react-native-training/up-running-with-react-native-visual-studio-mobile-center-e3c95adbf650
@@ -226,7 +349,7 @@ https://medium.com/react-native-training/up-and-running-with-react-native-and-ty
 
 * Updating react-native app: https://medium.com/react-native-training/updating-your-react-native-app-a724c996a76d
 
-# Deployment
+## Deployment
 * Understanding react-native deployments:
 https://medium.com/react-native-training/understanding-react-native-deployments-6e54157920b7
 
@@ -237,7 +360,7 @@ https://medium.com/react-native-training/understanding-react-native-deployments-
 * Continuous integration forreact-native apps using Visual Studio App Center:
 https://medium.com/react-native-training/setup-continuous-integration-with-react-native-50ad2f6145f4
 
-# Offline functionality
+## Offline functionality
 * Using redux-offline for react-native and PWA for offline first architecture: https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0
 
 * Handling offline actions in react-native: https://medium.com/differential/handling-offline-actions-in-react-native-74949cbfabf2
@@ -246,7 +369,7 @@ https://medium.com/react-native-training/setup-continuous-integration-with-react
 
 * Offline first app with react-native and redux: http://rationalappdev.com/offline-first-apps-with-react-native-and-redux/
 
-# Authentication
+## Authentication
 * OAuth2 with React-Native: https://medium.com/@jtremback/oauth-2-with-react-native-c3c7c64cbb6d
 
 * Creating an authentication system and a persistent user session with react-native: http://www.theodo.fr/blog/2017/03/how-to-create-an-authentication-system-and-a-persistent-user-session-with-react-native/
@@ -256,7 +379,84 @@ https://medium.com/react-native-training/setup-continuous-integration-with-react
 * React-Native authentication using Firebase:
 https://blog.invertase.io/getting-started-with-firebase-authentication-on-react-native-a1ed3d2d6d91
 
-# Misc
+## Bridgin in RN
+### Bridging into Native Codebases - iOS
+| Title | Description |
+| :------------ | :-----|
+| [Bridging in React Native](http://tadeuzagallo.com/blog/react-native-bridge/) | An in-depth look into React Native's Core | 
+| [Swift Modules With React Native](http://126kr.com/article/6c8p3x2zz2x) | | | |
+| [Building Better cross platform components](https://medium.com/differential/better-cross-platform-react-native-components-cb8aadeba472#.6kyg7mduq) | | | |
+| [Custom React Native Components in Swift](http://kevin-deleon.com/2015/05/custom-react-native-components-in-swift/) | | | |
+| [React Native - How to bridge a Swift View](http://browniefed.com/blog/react-native-how-to-bridge-a-swift-view/) | | | |
+| [React Native - How to Bridge an Objective-C View Component](http://browniefed.com/blog/react-native-how-to-bridge-an-objective-c-view-component/) | | | |
+| [Exposing Native Modules with React Native](https://speakerdeck.com/naoufal/exposing-native-modules-with-react-native) | | | |
+| [Creating your own native bridge](https://medium.com/@kureevalexey/how-to-create-you-own-native-bridge-93a8d4a40bd2#.a4228gmyh) | | | |
+| [Creating a Swift-ReactNative project](https://gist.github.com/boopathi/27d21956fefcb5b168fe) | | | |
+| [Swift Modules for React Native](http://moduscreate.com/swift-modules-for-react-native/) | | | |
+| [Swift to React Native](https://www.dropbox.com/s/xg53fjyzrogxji9/UIKonf.pdf?dl=0) | | | |
+| [Invoke Any Native API Directly From Pure Javascript in React Native](https://medium.com/@talkol/invoke-any-native-api-directly-from-pure-javascript-in-react-native-1fb6afcdf57d#.qbel10t3i) | | | |
+| [Jeremy Grancher - React Native Custom Components](https://www.youtube.com/watch?v=ykep4C_uXCE), [slides](http://www.slideshare.net/JeremyGrancher/react-native-custom-components) | | | |
+| [React Native Tutorial: Integrating in an Existing App](https://www.raywenderlich.com/136047/react-native-existing-app) | | | |
+| [Creating a Swift-ReactNative project](https://gist.github.com/boopathi/27d21956fefcb5b168fe) | | | |
+| [Integrating React Native with an Existing App](https://corbt.com/posts/2015/09/18/integrating-react-native-with-an-existing-app.html) | | | |
+| [Custom iOS Views with React Native](http://almostobsolete.net/react-native/custom-ios-views-with-react-native.html) | | | |
+| [Adding React Native to Existing iOS Project Without CocoaPods](https://medium.com/@joshyhargreaves/adding-react-native-to-existing-ios-project-without-cocoapods-6f1ee9106009#.x7en4qvf6) | Blog | | |
+| [How to Create a React Native iOS Native Module](http://blog.tylerbuchea.com/how-to-create-a-react-native-ios-native-module/) | Blog | | |
+
+### Bridging into Native Codebases - Android
+| Title | Description |
+| :------------ | :-----|
+| [React Native for Android](https://speakerdeck.com/obishop/react-native-for-android) | | | |
+| [One Day with React Native for Android](https://corbt.com/posts/2015/09/16/one-day-with-react-native-for-android.html) | | | |
+| [Native Modules for React Native Android](https://shift.infinite.red/native-modules-for-react-native-android-ac05dbda800d#.apuxx58p9)||||
+| [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/react-native-for-android-how-we-built-the-first-cross-platform-react-native-app/) | | | |
+| [Handling Android Back Button Events in React Native with Custom Components](https://medium.com/the-many/handling-android-back-button-events-in-react-native-with-custom-components-b33c63b0633b#.vpfh7ww5r) | | | |
+| [Building the custom Android module for React Native](https://medium.com/@sriraman2/building-the-custom-android-module-for-react-native-4317d8e6c31d#.h8vlutt61) | | | |
+| [React Native with JNI & C](https://thebhwgroup.com/blog/react-native-jni) | Blog | | |
+| [Writing Android component for React Native](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377#.79oicqcw0) | | | |
+
+
+### Optimizing and Performance
+| Title | Description |
+| :------------ | :-----|
+| [React.js Conf 2016 - Tadeu Zagallo - Optimising React Native: Tools and Tips](https://www.youtube.com/watch?v=0MlT74erp60) | Talks about the React Native build process |
+| [Introduction to React Native Performance](https://speakerdeck.com/talkol/introduction-to-react-native-performance), [code](https://github.com/wix/rn-perf-experiments)| React Native holds great promise in terms of excellent developer experience with Javascript and code reuse between platforms. The big question is — do these benefits come at the price of performance? How well can React Native hold its own against purely native implementations?|
+| [Performance Limitations of React Native and How to Overcome Them](https://speakerdeck.com/talkol/performance-limitations-of-react-native-and-how-to-overcome-them), [writeup](https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440#.rrvjohh30)  |
+| [Recycling Rows For High Performance React Native List Views](https://medium.com/@talkol/recycling-rows-for-high-performance-react-native-list-views-628fd0363861#.k2q8jc37h) | |
+| [Building a custom listview](https://www.youtube.com/watch?v=cI9bDvDEsYE&feature=youtu.be&t=2m11s) | |
+| [React Native Scheduling](https://www.facebook.com/notes/andy-street/react-native-scheduling/10153916310914590?hc_location=ufi)  | |
+| [React Native’s JavaScript Execution Contexts](https://medium.com/@shaheenghiassy/react-native-s-execution-context-d63e5d4930f4#.9uvk1zb5h)| |
+| [Breaking up Heavy Processing in React Native](https://corbt.com/posts/2015/12/22/breaking-up-heavy-processing-in-react-native.html) | |
+| [Under The Hood of React Native - Martin Konicek - Reactive 2015](https://www.youtube.com/watch?v=8N4f4h6SThc), [slides](https://speakerdeck.com/mkonicek/under-the-hood-of-react-native)| |
+| [JavaScript, React Native and Performance at react-europe 2016](https://www.youtube.com/watch?v=1oL_OJ3UePU), [slides](http://www.slideshare.net/TadeuZagallo/javascript-react-native-and-performance-at-reacteurope-2016) | |
+| [Alexander Kotliarskyi - React Native: Under the Hood - YGLF2015](https://www.youtube.com/watch?v=hDviGU-57lU), [slides](https://speakerdeck.com/frantic/react-native-under-the-hood) | Nice quick overview of the performance optimizations React Native makes behind the scences via async calls and batch updates |
+| [Dive into React Native performance](https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/)  | |
+| [React Native Internals: A Wider Picture (Part 1: MessageQueue & JS Thread)](https://medium.com/@rotemmiz/react-native-internals-a-wider-picture-part-1-messagequeue-js-thread-7894a7cba868#.4eef547de) | |
+| [Debugging React Native Performance: Snoopy and the MessageQueue](https://medium.com/@jondot/debugging-react-native-performance-snoopy-and-the-messagequeue-fe014cd047ac#.7k80oeg1e)  | |
+| [React Internals](https://zackargyle.github.io/react-internals-slides/#/0?_k=thic0m) | Slides | | Even though this is pretty much only about react, it is too good of a presentation to ignore. Goes into the concepts behind state, reconciliation, syntheticevent, and react fiber  |
+| [Optimizing React Native: Dynamic Gif Scrolling](https://medium.com/@tommylackemann/optimizing-react-native-dynamic-gif-scrolling-81fc5d132d4d#.uicyfycls) | |
+| [React Performance](http://presentations.survivejs.com/react-performance)| |
+| [Tempted to abandom React Native for Native Android](https://news.ycombinator.com/item?id=13568381)  | |
+| [I made React Native fast, you can too](https://launchdrawer.com/i-made-react-native-fast-you-can-too-9e61c951ce0#.y44p8lwdd) | Discuesses overdraw problems on Android and how you can track them down and eliminate them with GPU Prfiling tools in Android Studio  |
+
+
+### Cool Custom Components...
+| Title | Description |
+| :------------ | :-----|
+| [Awesome React Components](https://habd.as/awesome-react-components/#react-native) | List of React Native comonents and number of stars |
+| [reactscript.com](http://reactscript.com/react-native/) | React Native Componets Website - lots and lots of components! |
+| [Libs, Articles and Tutorials](https://android.jlelse.eu/libs-articles-and-tutorials-that-will-help-you-to-make-awesome-react-native-apps-f584060320a1#.z7yhtwsiy) | |
+| [react-native-grid-component](https://github.com/phil-r/react-native-grid-component) | |
+| [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) | |
+| [React Native FoldView](https://github.com/jmurzy/react-native-foldview) | |
+| [Sortable ListView](https://github.com/deanmcpherson/react-native-sortable-listview)  | |
+| [react-native-sglistview](https://github.com/sghiassy/react-native-sglistview) | SGListView is a memory minded implementation of React Native's ListView |
+| [react-native-sortable-list](https://github.com/gitim/react-native-sortable-list) | |
+| [react-native-utils](https://github.com/ksti/react-native-utils#readme)  | | 
+| [react-native-app-link](https://github.com/datwheat/react-native-app-link)  | Easily link to other apps with React Native. |
+
+
+## Misc
 * Building an e-commerce search app in React-Native:
 https://hackernoon.com/building-an-e-commerce-search-app-with-react-native-2c87760a2315
 
