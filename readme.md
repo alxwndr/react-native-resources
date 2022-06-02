@@ -458,27 +458,17 @@ https://blog.invertase.io/getting-started-with-firebase-authentication-on-react-
 ## Misc
 * Building an e-commerce search app in React-Native:
 https://hackernoon.com/building-an-e-commerce-search-app-with-react-native-2c87760a2315
-
 * Communicating between react-native and webview:
 https://medium.com/capriza-engineering/communicating-between-react-native-and-the-webview-ac14b8b8b91a
-
 * Tweeting in React-Native using linking: https://medium.com/@jordan_mohi/tweeting-with-react-native-and-linking-openurl-9c505d49bc3e
-
 * Implementing native modules for ios in React-Native: https://medium.com/@shashank.shashi2/implementing-native-modules-for-ios-react-native-bcb76be696ea
-
 * Add admob to react-native app: https://medium.com/@TarikHajji/add-admob-to-react-native-app-5b1e91be459
-
 * React-Native quirks: https://codeburst.io/react-native-quirks-2fb1ae0bbf80
-
 * Communicating to and from native UI components: https://medium.com/@john1jan/communicating-to-and-from-native-ui-components-in-react-native-android-b8abcfb2f9c8
-
 * Sending events to Javascript from native module in React-Native: 
 https://blog.callstack.io/sending-events-to-javascript-from-your-native-module-in-react-native-29244f890e04
-
 * Handling deep linking in React-Native: https://medium.com/the-react-native-log/handle-deep-links-in-react-native-apps-b22055149b3a
-
 * Using Expo, Gulp and Webpack to publish react components to npm:
 https://blog.expo.io/how-to-combine-expo-gulp-and-webpack-to-create-and-publish-react-components-to-npm-baec7b6bb443
-
 * Turn any Javascript library into React-Native component:
 https://medium.com/react-native-training/turn-any-javascript-library-into-a-react-native-component-e8ab0c710f12
