@@ -1,4 +1,4 @@
-# react-native-learning-resources
+# Complete React Native resourses
 Collection of some awesome resources for react-native :sparkles:
 
 # Experiences/Case studies
