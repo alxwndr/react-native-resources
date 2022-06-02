@@ -1,5 +1,4 @@
-# Complete React Native resourses
-Full collection of React Native resources :sparkles:
+# Complete React Native resourses collection :sparkles:
 
 A free collaborative list of awesome React Native resources. This list is a an attempt to create a comprehensive list of tutorials, blogs, videos and articels that cover as many topics as possible for React Native. I will update this list as I discover new posts and as new posts are suggested.
 
