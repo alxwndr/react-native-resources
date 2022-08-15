@@ -125,7 +125,7 @@ https://medium.com/building-with-react-native
 * How react-native works:
 http://www.discoversdk.com/blog/how-react-native-works
 
-* React-native working:
+* React-native inner working:
 http://www.geeksforgeeks.org/react-native-works/
 
 * React-native working under the hood:
