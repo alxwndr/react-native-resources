@@ -120,8 +120,7 @@ https://belitsoft.com/react-native-development/migrating-react-native-top-20-cas
 
 * https://blog.uptech.team/how-we-build-apps-on-react-native-part-2-7-things-you-should-know-to-save-your-development-time-944533f81c03
 
-* Series on building with React-Native:
-https://medium.com/building-with-react-native
+* Series on building with React-Native: https://medium.com/building-with-react-native
 
 ## React-Native architecture
 * How react-native works:
