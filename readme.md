@@ -75,8 +75,10 @@ A free collaborative list of awesome React Native resources. This list is a an a
 ### Cheat Sheets
 | Title | Description |
 | :------------ |:---------------|
-| [Reach Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) | Cheatsheet for styling react antive components |
 | [React Native Cheatsheet](https://github.com/refinery29/react-native-cheat-sheet) | React Native TidBits |
+| [React Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)| Cheatsheet for styling react antive components |
+| [Core Components Cheatsheet](https://www.codecademy.com/learn/learn-react-native/modules/core-components-react-native/cheatsheet)| Core Components Cheatsheet  |
+| [React Native Styling Cheat Sheet]([https://github.com/vhpoet/react-native-styling-cheat-sheet](https://react-apollo.github.io/2017/01/28/React%20Native%20Styling%20Cheat%20Sheet/))| React Native Styling Cheat Sheet |
 | [Learning Path for React Native](https://medium.com/entria/learning-path-react-native-5a97e9ce8c52#.i5ootmhn8) | |
 
 
@@ -118,8 +120,7 @@ https://belitsoft.com/react-native-development/migrating-react-native-top-20-cas
 
 * https://blog.uptech.team/how-we-build-apps-on-react-native-part-2-7-things-you-should-know-to-save-your-development-time-944533f81c03
 
-* Series on building with React-Native:
-https://medium.com/building-with-react-native
+* Series on building with React-Native: https://medium.com/building-with-react-native
 
 ## React-Native architecture
 * How react-native works:
@@ -233,6 +234,10 @@ https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-
 
 * How to achieve great animation performance in React-Native: 
 https://medium.com/building-with-react-native/animations-in-react-native-how-to-achieve-great-performance-and-tips-1x04-44fd43996428
+
+* react native animatable: https://github.com/oblador/react-native-animatable
+
+* Master React Native Animations: https://www.codedaily.io/courses/Master-React-Native-Animations
 
 
 ## Navigation and Routing Overview
